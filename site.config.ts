@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '85e45c8076624722b95231d10b969c6e',
+  rootNotionPageId: 'Team-Home-062908acb8024515af2fac8c823d352f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '树袋熊博客',
-  domain: 'https://www.notion.so/85e45c8076624722b95231d10b969c6e',
+  domain: 'https://www.notion.so/Team-Home-062908acb8024515af2fac8c823d352f',
   author: 'Joel Y',
 
   // open graph metadata (optional)
